@@ -12,6 +12,8 @@ void bubbleSort(int arr[], int n){
 		}
 	}
 }
+///////////////////////////// here is the code 
+
 
 int binarySearch(int arr[], int low, int high, int target){
 	while (low <= high){
@@ -55,3 +57,5 @@ int main(){
 	}
 	return 0;
 }
+
+// error 
