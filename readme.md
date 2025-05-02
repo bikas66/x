@@ -20,5 +20,5 @@ To compile and run the C programs, you need:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/basic-c-programming.git
+   git clone https://github.com/bikas66/x.git
    cd basic-c-programming
