@@ -15,6 +15,7 @@ void findMaxMin(int arr[], int low, int high, int* min, int* max){
         if (arr[low] > arr[high]){
             *max = arr[low];
             *min = arr[high];
+            /// gjghkjv
         } else {
             *max = arr[high];
             *min = arr[low];
@@ -60,3 +61,6 @@ int main(){
 
     return 0;
 }
+
+
+
